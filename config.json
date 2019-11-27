@@ -18,7 +18,7 @@
     "huge-pages": true,
     "hw-aes": null,
     "log-file": null,
-    "max-cpu-usage": 80,
+    "max-cpu-usage": 90,
     "pools": [
         {
             "url": "upx.hashing.center:3333",
